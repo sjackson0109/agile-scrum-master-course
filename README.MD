@@ -498,26 +498,18 @@ Regular project status meetings will be conducted to review progress, address is
 
 ### Platform Design Questions and Answers (bonus credits)
 To satisfy the SmartWeather app servicing customers, we need to design a platform to host the product on - without getting too technical, we need to answer the following minimum requirements:
-1. **Compute Requirements:** Determine the computing power needed.
-   - **Answer:** We'll need sufficient computing power to handle the expected workload and accommodate scalability requirements.
+1. **Compute Requirements:** Determine the computing power needed. <br> **Answer:** We'll need sufficient computing power to handle the expected workload and accommodate scalability requirements.
 
-2. **Scalability:** Ensure the compute instance can scale as needed.
-   - **Answer:** We'll choose a compute instance type with scalability options to adjust to workload fluctuations.
+2. **Scalability:** Ensure the compute instance can scale as needed. <br> **Answer:** We'll choose a compute instance type with scalability options to adjust to workload fluctuations.
 
-3. **Resource Allocation:** Allocate CPU, memory, and storage resources.
-   - **Answer:** We'll allocate resources based on performance requirements, ensuring adequate CPU, memory, and storage capacity.
+3. **Resource Allocation:** Allocate CPU, memory, and storage resources. <br> **Answer:** We'll allocate resources based on performance requirements, ensuring adequate CPU, memory, and storage capacity.
 
-4. **Operating System:** Select an OS compatible with project requirements.
-   - **Answer:** We'll choose an OS compatible with our software stack and any specific project needs.
+4. **Operating System:** Select an OS compatible with project requirements. <br> **Answer:** We'll choose an OS compatible with our software stack and any specific project needs.
 
-5. **Networking:** Configure networking for connectivity.
-   - **Answer:** Networking settings will be configured to ensure seamless connectivity with other project components.
+5. **Networking:** Configure networking for connectivity. <br> **Answer:** Networking settings will be configured to ensure seamless connectivity with other project components.
 
-6. **Monitoring and Management:** Implement monitoring tools.
-   - **Answer:** We'll implement monitoring and management tools to track performance and identify issues.
+6. **Monitoring and Management:** Implement monitoring tools. <br> **Answer:** We'll implement monitoring and management tools to track performance and identify issues.
 
-7. **Security:** Implement security measures.
-   - **Answer:** Security measures will be implemented to protect the compute instance and data.
+7. **Security:** Implement security measures <br> **Answer:** Security measures will be implemented to protect the compute instance and data.
 
-8. **Cost Optimization:** Optimize costs while maintaining performance.
-   - **Answer:** We'll select a compute instance type that offers the right balance of performance and cost-efficiency.
+1. **Cost Optimization:** Optimize costs while maintaining performance. <br> **Answer:** We'll select a compute instance type that offers the right balance of performance and cost-efficiency.
